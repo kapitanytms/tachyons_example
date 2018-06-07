@@ -1,0 +1,23 @@
+{
+  "name": "tachyons_example",
+  "version": "1.0.0",
+  "description": "Learning project ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapitanytms/tachyons_example.git"
+  },
+  "author": "Tamas Kapitany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapitanytms/tachyons_example/issues"
+  },
+  "homepage": "https://github.com/kapitanytms/tachyons_example#readme",
+  "dependencies": {
+    "requirejs": "^2.3.5",
+    "tachyons": "^4.10.0"
+  }
+}
